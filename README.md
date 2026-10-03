@@ -1,6 +1,6 @@
 # Vishal Sethi
 
-I build backend services and systems software, with a focus on storage, concurrency, and networked services. I am looking for an SDE-1 backend or systems role at a product company.
+I build backend services and systems software, with a focus on storage, concurrency, and networked services. I am looking for an SDE-1 backend or systems roles.
 
 ## Selected projects
 
