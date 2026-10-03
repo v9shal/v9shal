@@ -16,4 +16,4 @@ Languages: Go, TypeScript, JavaScript · Backend: TCP/RESP, HTTP, WebSockets, co
 
 ## Contact
 
-LinkedIn: TODO - add URL · Email: TODO - add address
+LinkedIn: https://www.linkedin.com/in/vishal-sethi-291530230/  Email: sethivishal145@gmail.com
